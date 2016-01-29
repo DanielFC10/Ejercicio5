@@ -16,6 +16,7 @@ public class Linux {
      */
     public static void main(String[] args) {
         System.out.println("Linux v2.0");
+        System.out.println("Suse 2");
     }
     
 }
